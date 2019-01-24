@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background:url("https://media.giphy.com/media/GpKXFiLmCUHrG/giphy.gif");
+}
+.icon {
+	width: 20px;
+	height: 30px;
+}
+.scorepanel,#life{
+	font-style: bold;
+	font-size: 20px;
+	background-color: white;
+}
+#credits{
+	font-style: bold;
+	font-size: 20px;
+	background-color: white;
+}
