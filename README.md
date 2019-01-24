@@ -22,3 +22,7 @@ udacity arcade game
 ## Game Rules
 * if the princess touch the rock you will be died.
 * the player princess has only 3 lifes. 
+
+#### Screenshot
+
+![Screenshot](https://github.com/jeevanakoti/Arcade-game/blob/master/sample.JPG)
